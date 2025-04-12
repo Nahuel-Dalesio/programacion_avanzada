@@ -138,7 +138,7 @@
 # def convertir_a_real(m):
 #     conv= m * 185.74
 #     print(conv)
-
+        
 # Ejercico 15:
 # Definir una función llamada CALCULO_DOSIS que reciba tres números. Uno para la cantidad de días que debe suministrar el remedio, el segundo dato para la cantidad de veces por día que debe tomarlo, y el último dato para la cantidad de comprimidos que trae el envase. La función debe devolver verdadero si el envase alcanza para ese tratamiento y falso si no alcanza.
 
