@@ -9,7 +9,7 @@ En Python, la herencia múltiple, puede plantear problemas debido a posibles amb
 
 El problema principal es conocido como el "problema del diamante" o "diamante de la muerte", que ocurre cuando una subclase hereda de dos superclases que a su vez heredan de una misma superclase común. Esto puede resultar en ambigüedades sobre cuál método o atributo debe prevalecer en la subclase, ya que Python sigue un orden de resolución de métodos específico llamado MRO (Method Resolution Order).
 
-[¡Codigo del "problema diamante"!](ej_prob_diamante.py)
+[¡Codigo del "problema diamante"!](./codificacion/ej_prob_diamante.py)
 
 ## ✅Mini autoevaluación
 1. ¿Qué es el orden de resolución de métodos (MRO)?
@@ -23,11 +23,11 @@ de ambas?
 
 ## **Código con errores para corregir**
 
-- [¡Resolución!](codigo_para_corregir.py)
+- [¡Resolución!](./codificacion/codigo_para_corregir.py)
 
 ## **Ejercicio práctico:**
 
-- [¡Resolución!](ejercicio_practico.py)
+- [¡Resolución!](./codificacion/ejercicio_practico.py)
 
 ## Reflexión individual
 
